@@ -1,4 +1,5 @@
 # Lab 2: Extending Your Neural Network with Experiments
+## Deadline: February 11th at 2:30pm 
 
 ## Summary
 
