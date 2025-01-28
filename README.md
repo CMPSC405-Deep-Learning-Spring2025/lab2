@@ -124,16 +124,13 @@ GatorGrader is used to assess portions of the criteria above. The following will
 
 1. **Source File Checks**:
     - Ensure that `neuralnetwork.py` file exists in the `src/` directory.
-
 2. **Technical Writing Checks**:
     - Ensure that `report.md` file exists in the `writing/` directory.
     - Write a minimum number of meaningful words (300) in the report.
     - Complete all TODOs and remove the TODO markers in the `report.md`.
-    - Ensure the report contains at least one image or screenshot of experimental graphs.
-
+    - Ensure the report contains at least three visualizations of experimental graphs.
 3. **Dataset File Check**:
     - Ensure that `data.csv` file exists in the `src/data/` directory.
-
 4. **GitHub Repository Checks**:
     - Have at least a specific minimum number of commits (12) in the repository.
 

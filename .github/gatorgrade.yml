@@ -28,7 +28,7 @@
       check: MatchFileFragment
       options:
         fragment: "!["
-        count: 1
+        count: 3
         exact: false
 
 # check the dataset file for existence
