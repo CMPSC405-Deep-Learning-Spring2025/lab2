@@ -24,7 +24,7 @@
         fragment: TODO
         count: 0
         exact: true
-    - description: Ensure the report contains at least one image or screenshot
+    - description: Ensure the report contains at least three images
       check: MatchFileFragment
       options:
         fragment: "!["
